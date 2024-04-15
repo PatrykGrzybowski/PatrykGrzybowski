@@ -1,18 +1,13 @@
 ### Hi there 👋
 
-## At work
-- Earth Observation data scientist :earth_africa:
-- Satellite data :satellite:
-- Air quality and meteorological data :sunny:
-- Data visualization and data storytelling :bar_chart:
-- Python programmer :snake:
-- DevOps methodology enthusiast :computer:
-## Personally
-- Love cooking :fork_and_knife:
-- Italy lover :it:
-- Football fan :soccer:
-- Enology freak :wine_glass:
-- Bookworm :green_book:
+| At work                                                  | Personally                        |
+|----------------------------------------------------------|-----------------------------------|
+| - Earth Observation data scientist :earth_africa:       | - Love cooking :fork_and_knife:  |
+| - Satellite, air quality and meteorological data :satellite: | - Italy lover :it:               |
+| - Data visualization and data storytelling :bar_chart:  | - Football fan :soccer:          |
+| - Python programmer :snake:                             | - Enology freak :wine_glass:     |
+| - DevOps methodology enthusiast :computer:              | - Bookworm :green_book:          |
+
 
 <!--
 **PatrykGrzybowski/PatrykGrzybowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
