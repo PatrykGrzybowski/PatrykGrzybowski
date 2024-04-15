@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-- Earth Observation data scientist :earth_africa: \
-- Satellite data :satellite: \
-- Air quality and meteorological data :sunny: \
-- Python programmer :snake: \
-- DevOps methodology enthusiast :computer: \
-\
-### Personally
-- Love cooking :fork_and_knife: \
-- Italy lover :pizza: \
-- Football fan :soccer: \
-- Enology freak :wine_glass: \
+## At work
+- Earth Observation data scientist :earth_africa:
+- Satellite data :satellite:
+- Air quality and meteorological data :sunny:
+- Data visualization and data storytelling :bar_chart:
+- Python programmer :snake:
+- DevOps methodology enthusiast :computer:
+## Personally
+- Love cooking :fork_and_knife:
+- Italy lover :it:
+- Football fan :soccer:
+- Enology freak :wine_glass:
 - Bookworm :green_book:
 
 <!--
