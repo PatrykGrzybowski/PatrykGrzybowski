@@ -2,11 +2,11 @@
 
 | At work                                                  | Personally                        |
 |----------------------------------------------------------|-----------------------------------|
-| - Earth Observation data scientist :earth_africa:       | - Love cooking :fork_and_knife:  |
-| - Satellite, air quality and meteorological data :satellite: | - Italy lover :it:               |
-| - Data visualization and data storytelling :bar_chart:  | - Football fan :soccer:          |
-| - Python programmer :snake:                             | - Enology freak :wine_glass:     |
-| - DevOps methodology enthusiast :computer:              | - Bookworm :green_book:          |
+| Earth Observation data scientist :earth_africa:       | Love cooking :fork_and_knife:  |
+| Satellite, air quality and meteorological data :satellite: | Italy lover :it:               |
+| Data visualization and data storytelling :bar_chart:  | Football fan :soccer:          |
+| Python programmer :snake:                             | Enology freak :wine_glass:     |
+| DevOps methodology enthusiast :computer:              | Bookworm :green_book:          |
 
 ## Social Media
 
