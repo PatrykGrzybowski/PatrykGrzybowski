@@ -13,7 +13,7 @@ My responsibilities include programming, developing, contact with clinets as wel
 | Satellite, air quality and meteorological data :satellite: | Italy lover :it:               |
 | Data visualization and data storytelling :bar_chart:  | Football fan :soccer:          |
 | Python programmer :snake:                             | Enology freak :wine_glass:     |
-| DataOps methodology enthusiast :computer:              | Bookworm :green_book:          |
+| DataOps enthusiast :computer:              | Bookworm :green_book:          |
 
 </div>
 
